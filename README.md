@@ -10,6 +10,7 @@
 
 <br>
 
+
 I'm [Tirth](https://www.linkedin.com/in/tirth-patel-412b70192), a computer science undergrad. I love programming and problem solving. 
 
 [comment]: <> (- 🔭 I’m currently working on [renderless-components]&#40;https://github.com/timelessco/renderless-components&#41;)
@@ -34,6 +35,6 @@ I'm [Tirth](https://www.linkedin.com/in/tirth-patel-412b70192), a computer scien
 
 ## Thank You For Reading!
 <section align='center'>
-<img src="./assets/thankyou.gif" width="500" height="300" />
+<img src="./assets/thankyou.gif" width="400" height="250" />
 </section>
 
