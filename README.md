@@ -1,17 +1,47 @@
-### Hi there 👋 
+# Hello 👋, I'm Tirth Patel
 
-[comment]: <> ( Change the above url to a portfolio website)
 
-<a href="https://discordapp.com/users/718020485551620187">
+<br>
 
-<img align="left" alt="Tirth's Discord" width="21px" src="https://raw.githubusercontent.com/tirthPatel177/tirthPatel177/master/assets/discord-round.svg" />
-
-</a>
+<div align="center">
+  <!-- <a href="https://vinaykakkad.tech">
+      <img src="https://img.shields.io/badge/⚡PORTFOLIO-F6C915?style=for-the-badge&logoColor=white" align="left">
+  </a> -->
+  <a href="https://www.kaggle.com/tirthpatel177">
+      <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" align="left">
+  </a>
+  <a href="mailto:177tpatel@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" align="left">
+  </a>
+  <a href="https://www.linkedin.com/in/tirth-patel-412b70192">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" align="left">
+  </a>   
+  <a href="https://discordapp.com/users/718020485551620187">
+      <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" align="left">
+  </a>   
+    
+</div>  
 
 <br>
 
 
-I'm [Tirth](https://www.linkedin.com/in/tirth-patel-412b70192), a computer science undergrad. I love programming and problem solving. 
+
+<!-- <a href="https://discordapp.com/users/718020485551620187">
+
+
+
+<img align="left" alt="Tirth's Discord" width="21px" src="https://raw.githubusercontent.com/tirthPatel177/tirthPatel177/master/assets/discord-round.svg" />
+
+</a> -->
+
+
+
+
+
+<br>
+
+
+
 
 [comment]: <> (- 🔭 I’m currently working on [renderless-components]&#40;https://github.com/timelessco/renderless-components&#41;)
 - 🌱 I’m currently learning Web Development
@@ -33,8 +63,15 @@ I'm [Tirth](https://www.linkedin.com/in/tirth-patel-412b70192), a computer scien
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/285d19f261b6d469fd8a309dddb234371d7be462/topics/database/database.png"></code>
 
 
-## Thank You For Reading!
-<section align='center'>
+<!-- ## Let's Connect
+
+ -->
+
+
+<!-- ## Thank You For Reading! -->
+<!-- <section align='center'>
 <img src="./assets/thankyou.gif" width="400" height="250" />
-</section>
+</section> -->
+<!-- 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=abhishekkrthakur&label=Views&color=blue&style=plastic" alt="Profile Views" /> </p> -->
 
