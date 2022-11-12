@@ -1,77 +1,33 @@
-# Hello 👋, I'm Tirth Patel
+<h2> Hello :) I'm Priyanshu Pathak.</h2>
+<img align="right" alt="GIF" src="https://media1.tenor.com/images/9fb771fb621c29b0a2eae945b5ceeeb3/tenor.gif" width="350"/>
+
+<h3> 👨🏻‍💻 About Me </h3>
+
+- 🎓 I’m currently pursuing Computer Science and Engineering from Ahmedabad University.
+- 👀 I’m interested in becoming a Software Engineer.
+- 👤 I love doing Competitive Programming and developing projects.
+- 💻 I have worked with C++, HTML, CSS, React.js, Node.js, Python, TypeScript, SQL, PostgreSQL.
+
+<h3>🛠 Tech Stack</h3>
+
+- 💻 &nbsp; Python  | Java | C++ | HTML | CSS | React.js | Node.js | Python | TypeScript | SQL | PostgreSQL.
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=priyanshu-28)](https://github.com/priyanshu-28/github-profile-trophy)
 
 
 <br>
 
-<div align="center">
-  <!-- <a href="https://vinaykakkad.tech">
-      <img src="https://img.shields.io/badge/⚡PORTFOLIO-F6C915?style=for-the-badge&logoColor=white" align="left">
-  </a> -->
-  <a href="https://www.kaggle.com/tirthpatel177">
-      <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" align="left">
-  </a>
-  <a href="mailto:177tpatel@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" align="left">
-  </a>
-  <a href="https://www.linkedin.com/in/tirth-patel-412b70192">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" align="left">
-  </a>   
-  <a href="https://discordapp.com/users/718020485551620187">
-      <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" align="left">
-  </a>   
-    
-</div>  
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=priyanshu-28&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="devSouvik's Github Stats">
 
-<br>
+</br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu-28&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/priyanshu-28/github-readme-stats)
 
 
+<h3> 🤝🏻 Connect with Me </h3>
 
-<!-- <a href="https://discordapp.com/users/718020485551620187">
-
-
-
-<img align="left" alt="Tirth's Discord" width="21px" src="https://raw.githubusercontent.com/tirthPatel177/tirthPatel177/master/assets/discord-round.svg" />
-
-</a> -->
-
-
-
-
-
-<br>
-
-
-
-
-[comment]: <> (- 🔭 I’m currently working on [renderless-components]&#40;https://github.com/timelessco/renderless-components&#41;)
-- 🌱 I’m currently learning Web Development
-
-[comment]: <> (- 👯 I’m looking to collaborate on [Github Readme Stats]&#40;https://github.com/anuraghazra/github-readme-stats&#41;)
-
-- 💬 Ask me about anything [here](https://www.linkedin.com/in/tirth-patel-412b70192)
-
-- Currently looking for Internships
-
-
-**Languages and Tools:**  
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/285d19f261b6d469fd8a309dddb234371d7be462/topics/database/database.png"></code>
-
-
-<!-- ## Let's Connect
-
- -->
-
-
-<!-- ## Thank You For Reading! -->
-<!-- <section align='center'>
-<img src="./assets/thankyou.gif" width="400" height="250" />
-</section> -->
-<!-- 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=abhishekkrthakur&label=Views&color=blue&style=plastic" alt="Profile Views" /> </p> -->
-
+<p align="center">
+&nbsp; <a href="https://www.instagram.com/_priyanshu28/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
+&nbsp; <a href="https://www.linkedin.com/in/priyanshu-p/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
+&nbsp; <a href="mailto:priyanshupathak28.imp@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+</p>
